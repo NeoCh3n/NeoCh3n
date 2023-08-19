@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Tryhackme](https://tryhackme.com/p/qu2045), [Linkedin](https://www.linkedin.com/in/chaoyanch3n/)
 - 😄 Pronouns: HE/HIM/HIS
 - ⚡ Fun fact: *Impermanence, Non-self, Nirvana*
+
+![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/qu2045.png)
