@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: HE/HIM/HIS
 - ⚡ Fun fact: *Impermanence, Non-self, Nirvana*
 
-![Tryhackme](https://tryhackme-badges.s3.amazonaws.com/qu2045.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/qu2045.png" alt="TryHackMe">
