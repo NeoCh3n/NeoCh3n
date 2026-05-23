@@ -1,25 +1,23 @@
-### Hi there 👋
+### Hi there
 
-**NeoCh3n/NeoCh3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Chaoyan (Neo) Chen**, an applied AI engineer building ML pipelines, LLM workflows, and agentic automation for enterprise use cases.
 
-Here are some ideas to get you started:
+- Currently working on **AI-driven workflow automation** and **enterprise AI applications** in the financial sector.
+- Background in applied AI, data pipelines, ML systems, and operational automation.
+- Exploring **RAG, AI agents, LLM-enabled workflows**, and practical AI systems.
+- Open to collaborating on:
+  - LLM-powered internal tools
+  - RAG and enterprise knowledge applications
+  - agentic workflow automation
+  - applied ML and data pipeline projects
 
-- 🔭 I’m currently working on **AI-driven detection systems** and **security automation** in the financial sector.
-- 🛡 Background: ex-SOC analyst, now a **Technology Risk / AI Security** engineer with an M.Sc. in Data Analytics & AI (Hong Kong).
-- 🌱 Exploring **log pipelines, ML-based threat detection**, and preparing for the **OSCP** exam.
-- 👯 I’m open to collaborating on:
-  - detection engineering / SOC tooling  
-  - log analysis & security data pipelines  
-  - AI-assisted incident response / agent-native security ideas
-- 😄 Pronouns: **he / him / his**
+### Long-term interests
 
+I’m interested in building **reliable, auditable, and practical AI systems** for high-stakes enterprise environments.
 
-### 🌌 Long-term interests
+My focus areas include:
 
-In the long run, I’m interested in building and operating **high-assurance security and detection systems** for high-stakes environments — especially **trading firms, hedge funds, and large-scale financial platforms**. 
-
-I’m particularly curious about:
-
-- how **offensive security** and **formal threat modelling** translate into practical detections in low-latency, high-volume systems  
-- using **AI/ML to augment blue teams**, not replace them  
-- bridging the gap between **security engineering, quantitative systems, and real-world risk management**
+- LLM workflows and AI agents for real business operations
+- AI systems with evaluation, traceability, and governance
+- Human-in-the-loop automation
+- The intersection of AI engineering, enterprise workflows, and decision support
